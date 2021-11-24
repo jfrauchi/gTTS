@@ -6,9 +6,9 @@ Example script to convert text-to-speech using the gTTS library and Google's TTS
 
 ```bash
 # clone repo
-git clone https://github.com/jfrauchi/TTS.git
+git clone https://github.com/jfrauchi/gTTS.git
 # navigate to new folder
-cd TTS
+cd gTTS
 # create a virtual environment - e.g. using venv
 python -m venv venv
 # activate virtual environment - example for Windows
